@@ -1,24 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.eaa719ee.css",
-    "main.js": "/static/js/main.7b98059b.js",
+    "main.css": "/static/css/main.970f76de.css",
+    "main.js": "/static/js/main.022728ec.js",
     "static/js/787.c922dae8.chunk.js": "/static/js/787.c922dae8.chunk.js",
     "static/media/about.jpg": "/static/media/about.7769219284b2525e05ad.jpg",
     "static/media/contact-img2.jpg": "/static/media/contact-img2.227c9d9642e581d04cf6.jpg",
     "static/media/profile2.jpg": "/static/media/profile2.a653f2ce431008b20326.jpg",
+    "static/media/lavner2.png": "/static/media/lavner2.a820e8fdb4c2e01c2557.png",
     "static/media/kcards.jpg": "/static/media/kcards.2b73dc25cc6813b53af7.jpg",
     "static/media/statify-bg.jpg": "/static/media/statify-bg.cc9b5c384bb2c43c74bd.jpg",
-    "static/media/lavner.png": "/static/media/lavner.7ac1bd474e8ec471ebc2.png",
+    "static/media/lavner.png": "/static/media/lavner.3e47e10720e66d739981.png",
     "static/media/divinetale-bg.jpg": "/static/media/divinetale-bg.4e4f1be07fd65da7d21d.jpg",
+    "static/media/postech2.png": "/static/media/postech2.237c23a006b73311237d.png",
     "static/media/true-rng-bg.jpg": "/static/media/true-rng-bg.7b19e8e6b847ea5f3fdf.jpg",
-    "static/media/postech.png": "/static/media/postech.34436d58162a203c4da0.png",
     "index.html": "/index.html",
-    "main.eaa719ee.css.map": "/static/css/main.eaa719ee.css.map",
-    "main.7b98059b.js.map": "/static/js/main.7b98059b.js.map",
+    "main.970f76de.css.map": "/static/css/main.970f76de.css.map",
+    "main.022728ec.js.map": "/static/js/main.022728ec.js.map",
     "787.c922dae8.chunk.js.map": "/static/js/787.c922dae8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.eaa719ee.css",
-    "static/js/main.7b98059b.js"
+    "static/css/main.970f76de.css",
+    "static/js/main.022728ec.js"
   ]
 }
